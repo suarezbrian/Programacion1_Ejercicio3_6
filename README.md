@@ -1,6 +1,6 @@
 # Programacion1_Ejercicio3_6
 
-/*
+
  ============================================================================
  Name        : Ejercicio3_6.c
  Author      : Brian Alan Suarez
@@ -13,4 +13,4 @@ solicitado al usuario, valide el mismo entre 10 y 100, realice un descuento del 
 dicho valor a través de una función llamada realizarDescuento(). Mostrar el resultado
 por pantalla.
  ============================================================================
- */
+ 
